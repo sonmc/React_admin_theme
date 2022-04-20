@@ -2,7 +2,7 @@
     "name": "berry-material-react-free",
     "version": "3.0.1",
     "private": true,
-    "homepage": "https://berrydashboard.io/free",
+    "homepage": "https://berrydashboard.io",
     "dependencies": {
         "@emotion/cache": "^11.4.0",
         "@emotion/react": "^11.4.0",
@@ -19,6 +19,7 @@
         "@testing-library/react": "^11.2.6",
         "@testing-library/user-event": "^12.8.3",
         "apexcharts": "^3.26.1",
+        "axios": "^0.26.1",
         "clsx": "^1.1.1",
         "formik": "^2.2.6",
         "framer-motion": "^4.1.13",
@@ -34,6 +35,7 @@
         "react-router": "6.0.0-beta.0",
         "react-router-dom": "6.0.0-beta.0",
         "react-scripts": "^4.0.3",
+        "recoil": "^0.7.2",
         "redux": "^4.0.5",
         "yup": "^0.32.9"
     },
